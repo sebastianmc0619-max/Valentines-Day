@@ -13,8 +13,8 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
-      "Really sure?",
+      "Are you sure Haythi?",
+      "Really sure, Haythi?",
       "Think again!",
       "Last chance!",
       "Surely not?",
@@ -48,7 +48,7 @@ export default function Page() {
               style={{ width: "400x", height: "240px" }}
               src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
             />
-            <h1 className="text-container">Will you be my Valentine?</h1>
+            <h1 className="text-container">Haythi, Will you be my Valentine?</h1>
             <div>
               <button
                 className={"yes-button"}
